@@ -3,7 +3,6 @@ module.exports = {
 
     output: {
         filename: "./dist/jszip.js",
-        library: "JSZip",
         libraryTarget: "amd"
     }
 }
